@@ -1,0 +1,7 @@
+3b1d0a05a2b8e2bb166d85119c01ecefefb3c4f06a8f3af657fa25eb0eca68b1  ./kernel-modules/amdxdna-6.14.0-34-generic.ko.zst
+63ce52cbd9e3c3a338b03e20369d68d98d5093520432b827679cfb112a31babd  ./install-amdxdna-prebuilt.sh
+5fec9901fc100888f2ca5ac820c808d6c892703677bd6931340ae9d9c48a1db1  ./xrt/xrt-base_2.20.0_amd64.deb
+84101f4576b6bbe521cecee71881f05ce11db5438e4ace6d2f1aa4ad02942dd4  ./xrt/xrt_plugin-amdxdna_2.20_amd64.deb
+88f0a7f964b5e3a50f6e897ed24d34c783c6ab314d0a18324b173817f9e6a452  ./xrt/xrt-npu_2.20.0_amd64.deb
+9c52ec597d6a2f1272bbfd357c2e8f83bee0c89f4de29d44f574266a172a2060  ./package-kernel-module.sh
+41888126e769dc63ad84b3c00fd86154bd12b139473df6757a34f1350c93c441  ./install-xrt-prebuilt.sh
